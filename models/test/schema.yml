@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: source
+    schema: week5
+    database: dtc-de-zoomcamp-2023
+    tables:
+      - name: fhv
