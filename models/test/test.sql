@@ -1,1 +1,0 @@
-select * from `dtc-de-zoomcamp-2023.week5.fhv`
